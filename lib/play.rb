@@ -33,7 +33,6 @@ def turn(board)
   else
     turn(board)
   end
-  break
 end
 
 def play(board)
