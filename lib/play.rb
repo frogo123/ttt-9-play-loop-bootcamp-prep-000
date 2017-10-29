@@ -39,6 +39,7 @@ def play(board)
   counter = 0
   if counter <= 8
 turn(board)
+puts counter
 counter += 1
 end
 end
